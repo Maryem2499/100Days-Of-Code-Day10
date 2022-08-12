@@ -1,1 +1,1 @@
-# 100Dazys-Of-Code-Day10
+# 100Days-Of-Code-Day10
